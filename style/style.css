@@ -1,0 +1,58 @@
+/*--------------- tag selector (global) ------------------*/
+body {
+  background-color: #1f8fb7;
+}
+
+hr {
+  border-style: none;
+  border-top-style: solid;
+  border-color: #fff;
+  width: 35%;
+  border-width: 10px;
+}
+
+/*--------------- class selector (dot) ------------------*/
+.branding {
+  display: flex;
+  flex-wrap: wrap;
+  color:rgb(212, 121, 35);
+  font-size: 2em;
+  font-style: oblique;
+  text-align: center;
+}
+
+.dotted_hr
+{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #fff;
+  width: 50%;
+  border-width: 10px;
+}
+
+.sunrise_logo {
+  display: inline-flex;
+  width: 20%;
+  border-radius: 100%;
+  margin-right: 2%;
+}
+
+.sunrise_name {
+  display: inline-flex;
+  vertical-align: top;
+  width: 70%;
+  float: right;
+  text-align: center;
+}
+
+.brand_container {
+  width: auto;
+  margin: auto;
+  border: dotted 2px;
+}
+
+/*--------------- ID selector (#) ------------------*/
+
+
+
+/************** absolutely specific ****************/

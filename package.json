@@ -1,0 +1,11 @@
+{
+  "name": "smartbi-software",
+  "version": "1.0.0",
+  "description": "My first attempt at replicating the Ledger Software in Node",
+  "main": "/scripts/cv-logic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonard Sun",
+  "license": "ISC"
+}

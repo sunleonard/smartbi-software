@@ -1,0 +1,29 @@
+.box1 {
+  display: inlne-block;
+  border-style: solid;
+  background-color: teal;
+  border-width: 10px 20px 10px 20px;
+  width: 200px;
+  height: 200px;
+  position: relative;
+}
+
+.box2 {
+  display: inlne-block;
+  border-style: dashed;
+  background-color: teal;
+  border-width: 10px 0px 10px 0px;
+  width: 250px;
+  height: 250px;
+  position: relative;
+}
+
+.box3 {
+  display: inlne-block;
+  background-color: orange;
+  border-style: double;
+  width: 150px;
+  height: 150px;
+  border-width: 30px 10px 10px 30px;
+  position: relative;
+}

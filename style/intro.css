@@ -1,0 +1,28 @@
+.info {
+  border-style: groove;
+  position: relative;
+  display: inline-block;
+  color: blue;
+  bottom: 100px;
+  left: 20px;
+}
+
+.Portrait {
+  display: inline-block;
+  margin-top: 10px;
+  border-radius: 20%;
+  position: static;
+}
+
+.top_part {
+  background-color: #1f8fb7;
+}
+
+.second_part {
+  background-color: green;
+}
+
+.p_second {
+  font-size: 1.5em;
+  color: gold;
+}
